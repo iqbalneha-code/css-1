@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Condensed+One&display=swap');
+<<<<<<< HEAD
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap');
+=======
+
+
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   
+    vertical-align: top;
+<<<<<<< HEAD
+    scroll-behavior: smooth;
+=======
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
+}
+@font-face {
+    font-family: abcd;
+    src: url(./Playwrite_BE_WAL_Guides/);
+}
+.parent {
+    height: 100vh;
+    max-width: 100vw;
+}
+
+.sidebar {
+    height: 100%;
+    width: 20%;
+<<<<<<< HEAD
+    background-color:rgb(172, 54, 54);
+=======
+    background-color:rgb(141, 26, 26);
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
+    display: inline-block;
+    vertical-align: top;
+}
+
+.main {
+    height: 100%;
+    width: 79%;
+    background-color: rgb(227, 223, 220);
+    display: inline-block;
+    overflow: auto;
+}
+h1 {
+<<<<<<< HEAD
+    padding-top: 200px;
+=======
+    padding-top: 145px;
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
+    padding-left: 80px;
+    font-family: "Anton", sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 400%;
+    color: rgb(5, 2, 22);
+<<<<<<< HEAD
+    text-transform: uppercase;
+   
+}
+h4{
+=======
+   
+}
+h4{
+    font-family: abcd;
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
+    font-style: normal;
+    padding-left: 80px;
+    color: grey;
+    text-transform: uppercase;
+    word-spacing: 2px;
+    display: inline-block;
+<<<<<<< HEAD
+    font-family: "Special Gothic Condensed One", sans-serif;
+
+=======
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
+}
+.cl {
+    color: rgb(141, 26, 26);
+}
+.ty{
+    color: rgb(1, 1, 61);
+    
+}
+p{
+    padding: 50px;
+    color: grey;
+<<<<<<< HEAD
+    word-spacing: 4px;
+    letter-spacing: 1px;
+=======
+   
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
+   
+}
+a{
+    color:rgb(141, 26, 26);
+    text-transform: uppercase;
+    
+} 
+.sol{
+    padding-left: 80px;
+<<<<<<< HEAD
+    padding-top: 0px;
+    color:grey ;
+    font-family: "Special Gothic Condensed One", sans-serif;
+
+
+}
+
+
+=======
+    padding-top: 0%;
+    color:grey ;
+}
+
+img{
+    padding-left: 50px;
+    width: 100px;
+    display: inline-block;
+}
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
+h2{
+   
+    padding-left: 80px;
+    font-family: "Anton", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 300%;
+    display: inline-block;
+    text-align: right;
+}
+.date{
+    color: rgb(114, 20, 20);
+    display: inline-block;
+<<<<<<< HEAD
+    text-align: right;
+    padding-bottom: 50px;
+    padding-left: 200px;
+    padding-top: 10px;
+    text-transform: capitalize;
+=======
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
+}
+h3{
+    color: rgb(17, 13, 70); 
+    padding-left: 80px;
+<<<<<<< HEAD
+    font-family: "Google Sans Flex", sans-serif;    font-weight: 400;
+    font-size: 200%;
+    display: inline-block;
+    text-align: right;
+    text-transform: uppercase;
+=======
+    font-family: "Anton", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 300%;
+    display: inline-block;
+    text-align: right;
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
+}
+.trophy{
+    padding-bottom: 2px;
+    padding-top: 2px ;
+    display: inline-block;
+    margin: auto;
+}
+.doll{
+<<<<<<< HEAD
+    width: 200px;
+    color:rgba(255, 255, 255, 0.87);
+    text-align: center;
+    font-family: "Special Gothic Condensed One", sans-serif;
+    font-weight: 500;
+    padding: 5px;
+    display: block;
+    margin-top: 20px;
+
+}
+    
+.doll:hover{
+    color: white;
+}
+
+.doll:focus{
+    color: rgb(115, 167, 160);
+}
+
+.pic{
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    margin-top: 50%;
+    border: 5px solid rgb(150, 45, 45);
+    text-align: center;
+    margin-left: 40px;
+}
+.li{
+    width: 48px;
+
+
+}
+.id{
+    
+   font-size: 30px;
+   color: white;
+   border-radius: 50%;
+   margin-top: 25px ;
+
+}
+.in{
+    background-color: grey;
+    display: inline-block;
+    border-radius: 50% 50% 50% 50% / 46% 49% 51% 54%  ;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    margin-left: 50px;
+
+
+}
+div .in:hover{
+    background-color: chocolate;
+   
+}
+.para{
+    font-family: "Lobster Two", sans-serif;
+    padding-left: 75px;
+    padding-top: 0px;
+}
+.space{
+        margin-top: 50px;
+}
+.end{
+        font-family: "Lobster Two", sans-serif;
+        color: grey;
+}
+.div{
+     display: inline-block;
+     border-radius: 50%;
+     width: 50px;
+     height: 50px;
+     margin-left: 10px;
+     margin-top: 10px;
+
+}
+.icon{
+        font-size:40px ;
+        border-radius: 50%;
+        margin-top: 12px;
+        margin-left: 55px;
+        color: rgba(137, 158, 139, 0.877);
+}
+=======
+    text-align: center;
+    width: 200px;
+    color: beige;
+    text-align: center;
+    font-style: normal;
+    font-family: "Special Gothic Condensed One", sans-serif;
+    font-size: larger;
+    font-style: normal;
+    font-weight: 500;
+}
+    
+.doll:hover{
+    color: rgb(114, 103, 3);
+}
+
+.doll:focus{
+    color: rgb(9, 241, 211);
+}
+>>>>>>> 72a5774479bb448a17a698c29ae8bf26c5a7c00f
